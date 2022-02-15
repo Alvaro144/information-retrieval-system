@@ -86,7 +86,7 @@ We need to insert all documents in directory /documentos.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Just store your documents in directory /documentos
+Just add your documents in directory /documentos
 
 Example of execution 
 
