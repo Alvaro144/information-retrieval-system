@@ -50,9 +50,9 @@ This is a information retrieval system for documents like CSV.
 ### Features:
 
 :white_check_mark: Sort by facets \
-:white_check_mark: Explanation of how the score for each query was achieved \ 
-:white_check_mark: Filter by many fields\ 
-:white_check_mark: Filter excluding terms \ 
+:white_check_mark: Explanation of how the score for each query was achieved \
+:white_check_mark: Filter by many fields\
+:white_check_mark: Filter excluding terms \
 
 ### Built With
 
